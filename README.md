@@ -4,8 +4,8 @@ C++ Console App that edits hosts file in order to skip ts blacklist/greylist and
 Main file: Anti-Blacklist.cpp
 
 Downloads:
-- Windows x64: https://repo.ts3servers.ovh/downloads/Anti-Blacklist_x64.exe
-- Windows x86: https://repo.ts3servers.ovh/downloads/Anti-Blacklist_x86.exe
-- Windows .bat: https://repo.ts3servers.ovh/downloads/Anti-Blacklist.zip
+- Windows x64: https://www.ts3servers.ovh/recursos.php?page=2&download=4292157449
+- Windows x86: https://www.ts3servers.ovh/recursos.php?page=2&download=7394999581
+- Windows .bat: https://www.ts3servers.ovh/recursos.php?page=2&download=3915704999
 
 https://www.virustotal.com/gui/file/29ba5c8ad140010d02505bd48fb71939b1804dd0d527540e1377b128496684be/detection
