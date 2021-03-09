@@ -1,0 +1,7 @@
+﻿  Anti-Blacklist.cpp
+D:\repos\Anti-Blacklist\Anti-Blacklist\Anti-Blacklist.cpp(57,25): warning C4805: '==': combinación no segura del tipo 'BOOL' y el tipo 'bool' en la operación
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 158 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Anti-Blacklist.vcxproj -> D:\repos\Anti-Blacklist\Release\Anti-Blacklist.exe
