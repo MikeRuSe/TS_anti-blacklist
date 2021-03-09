@@ -1,5 +1,6 @@
 # TS_anti-blacklist
 C++ Console App that edits hosts file in order to skip ts blacklist and be able to connect to any server TeamSpeak and TeaSpeak.
+
 Main file: Anti-Blacklist.cpp
 
 Downloads:
